@@ -44,7 +44,10 @@ nexora-ai-chatbot/
 │   └── products.xlsx
 └── README.md
 ```
+## 📸 Project Output
 
+![Nexora AI Assistant](output.png)
+---
 ---
 
 ## ⚙️ Installation
